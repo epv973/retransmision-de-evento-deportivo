@@ -32,6 +32,6 @@ int main(){
 	printf("Poder recuperar la contrase?\n");
 	
 	return 0;
-
+	printf("Desarrollo de la ampliacion del despliegue multiplataforma\n");
 
 }
