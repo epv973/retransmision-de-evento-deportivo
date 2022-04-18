@@ -32,6 +32,10 @@ int main(){
 	printf("Poder recuperar la contrase?\n");
 	printf("Realizar la conexion con los servidores desplegados\n");
 	return 0;
+
 	
+
+	printf("Desarrollo de la ampliacion del despliegue multiplataforma\n");
+
 
 }
