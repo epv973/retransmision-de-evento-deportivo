@@ -7,6 +7,7 @@ int main(){
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	printf("Plataforma App SmartPhone \n");
 =======
 >>>>>>> 5df1c5ab73114a58c56e1b3fb5c93a8ecb51571d
@@ -19,4 +20,7 @@ int main(){
 =======
 	printf("Amplio base de datos\n");
 >>>>>>> ampliar_base_de_datos
+=======
+	printf("Mejoro interfaz gráfica del cliente\n");
+>>>>>>> mejorar_interfaz_gráfica_del_cliente
 }
