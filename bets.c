@@ -2,5 +2,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Funcionalidad 1\n");
+	printf("Cambios msj94 \n");
+	printf("Permitir cambiar datos personales\n");
 }
