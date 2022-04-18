@@ -2,5 +2,9 @@
 #include <stdio.h>
 
 int main(){
-	printf("Funcionalidad 1\n");
+	printf("Cambios de msj934\n");
+	printf("Actualizar información de facturación\n");
+	
+	return 0;
+	
 }
