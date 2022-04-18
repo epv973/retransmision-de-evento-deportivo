@@ -7,4 +7,10 @@ int main(){
 	
 	return 0;
 	
+	printf("Cambios msj94 \n");
+	printf("Permitir cambiar datos personales\n");
+	printf("Poder recuperar la contraseña\n");
+	
+	return 0;
+
 }
