@@ -30,8 +30,8 @@ int main(){
 	printf("Cambios msj94 \n");
 	printf("Permitir cambiar datos personales\n");
 	printf("Poder recuperar la contrase?\n");
-	
+	printf("Realizar la conexion con los servidores desplegados\n");
 	return 0;
-
+	
 
 }
