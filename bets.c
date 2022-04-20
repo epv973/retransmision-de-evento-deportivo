@@ -1,8 +1,16 @@
-#include <stdlib.h>
+ï»¿#include <stdlib.h>
 #include <stdio.h>
 
 int main(){
 	printf("Funcionalidad 1\n");
+
+
+
+	printf("Plataforma App SmartPhone \n");
+
+
+	printf("Plataforma App SmartPhone \n");
+	printf("Plataforma App SmartPhone fin\n");
 
 	printf("Plataforma App SmartPhone \n");
 
@@ -22,8 +30,24 @@ int main(){
 	
 	printf("Cambios msj94 \n");
 	printf("Permitir cambiar datos personales\n");
+
+	printf("Poder recuperar la contraseña\n");
+
+	printf("Poder pagar con paypal\n");
+
+	printf("Poder pagar con transferencia\n");
+	printf("Poder cambiar la tarjeta\n");
+	printf("Poder cambiar el numero de cuenta\n");
+	printf("Configurar metodos de pago\n");
+
 	printf("Poder recuperar la contrase?\n");
-	
+	printf("Realizar conexion a servidores desplegados\n");
+
 	return 0;
+
+	
+
+	printf("Desarrollo de la ampliacion del despliegue multiplataforma\n");
+
 
 }
