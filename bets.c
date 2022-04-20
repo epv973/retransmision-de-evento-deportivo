@@ -29,7 +29,7 @@ int main(){
 			printf("Añado busco por popularidad 2\n");
 
 
-	printf("Añado botón sugerencias 2\n");
+	printf("Añado botón sugerencias 3\n");
 
 	printf("Añado sistema de segurencias 2\n");
 
