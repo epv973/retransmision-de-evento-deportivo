@@ -14,7 +14,7 @@ int main(){
 
 	printf("Plataforma App SmartPhone \n");
 
-	printf("Busco por deportista\n", );
+	printf("Busco por deportista\n");
 
 	printf("añadir búsqueda por equipooooo\n");
 
@@ -34,8 +34,6 @@ int main(){
 	printf("Añado sistema de segurencias 2\n");
 
 	
-	return 0;
-	
 	printf("Cambios msj94 \n");
 	printf("Permitir cambiar datos personales\n");
 
@@ -49,13 +47,9 @@ int main(){
 	printf("Configurar metodos de pago\n");
 
 	printf("Poder recuperar la contrase?\n");
-	printf("Realizar conexion a servidores desplegados\n");
-
-	return 0;
-
-	
+	printf("Realizar conexion a servidores desplegados\n");	
 
 	printf("Desarrollo de la ampliacion del despliegue multiplataforma\n");
 
-
+ return 0;
 }
