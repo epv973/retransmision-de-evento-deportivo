@@ -18,6 +18,7 @@ int main(){
 	printf("Actualizar informaci? de facturaci?\n");
 	printf("Añado busco por popularidad\n");
 		printf("Añado busco por popularidad 1\n");
+			printf("Añado busco por popularidad 2\n");
 	
 	return 0;
 	
