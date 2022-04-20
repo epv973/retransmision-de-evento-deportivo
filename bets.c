@@ -16,6 +16,7 @@ int main(){
 
 	printf("Cambios de msj934\n");
 	printf("Actualizar informaci? de facturaci?\n");
+	printf("Añado busco por popularidad\n");
 	
 	return 0;
 	
