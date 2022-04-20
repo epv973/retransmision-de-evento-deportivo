@@ -27,13 +27,15 @@ int main(){
 	printf("Añado busco por popularidad\n");
 		printf("Añado busco por popularidad 1\n");
 			printf("Añado busco por popularidad 2\n");
+
+	printf("Añado botón sugerencias\n");
 	
 	return 0;
 	
 	printf("Cambios msj94 \n");
 	printf("Permitir cambiar datos personales\n");
 
-	printf("Poder recuperar la contrase�a\n");
+	printf("Poder recuperar la contrase?\n");
 
 	printf("Poder pagar con paypal\n");
 
