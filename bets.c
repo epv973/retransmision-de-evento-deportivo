@@ -28,7 +28,11 @@ int main(){
 		printf("Añado busco por popularidad 1\n");
 			printf("Añado busco por popularidad 2\n");
 
+<<<<<<< HEAD
 	printf("Añado botón sugerencias\n");
+=======
+	printf("Añado sistema de segurencias 2\n");
+>>>>>>> añadir_sistema_segurencias
 	
 	return 0;
 	
