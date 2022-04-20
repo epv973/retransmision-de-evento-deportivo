@@ -35,6 +35,7 @@ int main(){
 	printf("Poder pagar con paypal\n");
 
 	printf("Poder pagar con transferencia\n");
+	printf("Poder cambiar la tarjeta\n");
 
 
 	printf("Poder recuperar la contrase?\n");
