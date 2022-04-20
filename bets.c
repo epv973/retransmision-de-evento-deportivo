@@ -10,7 +10,11 @@ int main(){
 	printf("Cambios msj94 \n");
 	printf("Permitir cambiar datos personales\n");
 	printf("Poder recuperar la contraseña\n");
+
 	printf("Poder pagar con paypal\n");
+
+	printf("Poder pagar con transferencia\n");
+
 	return 0;
 
 }
