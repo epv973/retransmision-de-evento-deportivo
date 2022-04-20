@@ -36,7 +36,7 @@ int main(){
 
 	printf("Poder pagar con transferencia\n");
 	printf("Poder cambiar la tarjeta\n");
-
+	printf("Poder cambiar el numero de cuenta\n");
 
 	printf("Poder recuperar la contrase?\n");
 	printf("Realizar conexion a servidores desplegados\n");
