@@ -36,6 +36,6 @@ int main(){
 	
 
 	printf("Desarrollo de la ampliacion del despliegue multiplataforma\n");
-
+	printf("Ampliar la selección" \n");
 
 }
